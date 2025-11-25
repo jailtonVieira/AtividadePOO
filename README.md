@@ -2,4 +2,4 @@
 
 | opcçoes | links |
 |---------|-------|
-| ver o codigo | (./POO-QUIZ.py) |
+| ver o codigo | [Clique aqui](./POO-QUIZ.py) |
